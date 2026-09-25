@@ -7,8 +7,8 @@ While we have tried to be compatible with Python 2 _and_ 3 wherever possible,
 we'd strongly encourage you to use Python 3.
 
 The initial version of this material was loosely based on the "Python für Kids"
-book by Gregor Lingl.  It is conceptual-- rather than incidental --that it
-trades in idioms for learnability.  We believe that beginners sometimes have to
+book by Gregor Lingl.  It is conceptual--rather than incidental--that it trades in idioms for learnability.
+We believe that beginners sometimes have to
 jump through one or another hoop to fully comprehend the scope and
 applicability of a concept.  Every introduced abstraction solves another pain
 point in the life of a beginning programmer.
